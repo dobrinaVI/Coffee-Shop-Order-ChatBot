@@ -1,2 +1,2 @@
-# Ice-Cream-Order-Bot
-Ice Cream Order Chat Bot utilises the openai API.
+# Ice-Cream-Order-ChatBot
+Ice Cream Order ChatBot utilises the openai API.
